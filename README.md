@@ -8,6 +8,7 @@ SafeTrack AI is a computer-vision-based safety monitoring system designed to det
 
 The initial MVP focuses on detecting **prolonged presence inside a predefined restricted zone** and generating a timestamped event with supporting visual evidence.
 
+http://127.0.0.1:8000/
 ---
 
 ## 1. Problem Statement
